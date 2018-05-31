@@ -8,7 +8,7 @@ int main() {
 
 	int temp[] = { 3, 4, 2, 23, 4, 2 };
 
-	Sort::SelectionSort(temp, 6);
+	Sort::BubbleSort(temp, 6);
 	int k = 0;
 
 	return 1;
